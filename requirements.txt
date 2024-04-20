@@ -5,7 +5,9 @@ celery==4.4.7
 Django==5.0.4
 django-celery-beat==2.0.0
 django-timezone-field==4.2.3
+gunicorn==22.0.0
 kombu==4.6.11
+packaging==24.0
 pillow==10.3.0
 python-crontab==3.0.0
 python-dateutil==2.8.1
